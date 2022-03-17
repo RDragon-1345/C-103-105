@@ -1,0 +1,23 @@
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+body{
+    background-color: aquamarine;
+}
+.object_name{
+    font-size: large;
+}
+#camera,#result{
+    width: 350px;
+    height: 300px;
+    border: 2px solid coral;
+}
+#object_name1,#object_accuracy{
+    font-size: 20px;
+    color: rgb(194, 32, 32);
+}
+label{
+    font-size: 25px;
+    color: blue;
+}
